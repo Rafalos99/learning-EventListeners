@@ -21,7 +21,7 @@ function printRed() {
 }
 
 function printBlue() {
-    console.log("I am Bluee!!!")
+    console.log("I am Blueee!!!")
 }
 
 function printGreen() {
